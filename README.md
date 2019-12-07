@@ -22,7 +22,7 @@ Prerequisites:
 <code>pip install speech_recognition</code>
 
 6. You will need to install ffmpeg:
-In windows from: https://ffmpeg.zeranoe.com/builds/ and add to your path.
+In windows from: https://ffmpeg.zeranoe.com/builds/ and add to your path.<br>
 In Linux: <code> sudo apt-get install ffmpeg</code>
 
 7. Pydub:
